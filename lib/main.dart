@@ -57,7 +57,7 @@ class TodoListState extends State<TodoList> {
                       });
                       Navigator.of(context).pop();
                     },
-                    child: Text("Add"))
+                    child: Text("Add Detail"))
               ],
             );
           });
